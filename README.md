@@ -18,7 +18,8 @@
 ## 🚀 Projeto atual
 
 ### 🛡️ Mini SOC
-Sistema de detecção e análise de incidentes desenvolvido para estudar monitoramento de logs, Python e fundamentos de cibersegurança.
+
+Sistema de detecção e análise de incidentes para estudo de logs, Python e fundamentos de cibersegurança.
 
 ---
 
@@ -35,4 +36,4 @@ Sistema de detecção e análise de incidentes desenvolvido para estudar monitor
 
 ## 🎯 Objetivo
 
-Construir uma base sólida em desenvolvimento de software e, gradualmente, direcionar minha carreira para Cibersegurança.
+Construir uma base sólida em desenvolvimento de software e direcionar gradualmente minha carreira para Cibersegurança.
